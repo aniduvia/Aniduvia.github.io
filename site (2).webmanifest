@@ -1,0 +1,11 @@
+{
+  "name": "ANIDUVIA",
+  "short_name": "ANIDUVIA",
+  "description": "Watch anime series and movies online on ANIDUVIA.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07060C",
+  "theme_color": "#07060C",
+  "icons": [{ "src": "logo.png", "sizes": "any", "type": "image/png", "purpose": "any" }]
+}
